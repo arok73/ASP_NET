@@ -1,0 +1,29 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="taskD1.master.cs" Inherits="taskD1.taskD1" %>
+
+<!DOCTYPE html>
+
+<html>
+<head runat="server">
+    <title>ASP.NET PROGRAMMING</title>
+    <link href="CSS/StyleSheet1.css" rel="stylesheet" />
+    <asp:ContentPlaceHolder ID="head" runat="server">
+    </asp:ContentPlaceHolder>
+</head>
+<body>
+    <form id="form1" runat="server">
+        <div class="custom_navi">
+            <ul>
+                <li><asp:LinkButton ID="LinkButton1" runat="server" OnClick="LinkButton1_Click">taskD1</asp:LinkButton></li>
+                <li><asp:LinkButton ID="LinkButton2" runat="server" OnClick="LinkButton2_Click">taskD4</asp:LinkButton></li>
+                <li><asp:LinkButton ID="LinkButton3" runat="server" OnClick="LinkButton3_Click">taskE</asp:LinkButton></li>
+            </ul>
+        </div>
+        <h1>ASP.NET PROGRAMMING - EXERCISE NR. 2.3</h1>
+        <div>
+
+            <asp:ContentPlaceHolder ID="ContentPlaceHolder1" runat="server">
+            </asp:ContentPlaceHolder>
+        </div>
+    </form>
+</body>
+</html>

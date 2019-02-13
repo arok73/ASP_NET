@@ -1,0 +1,107 @@
+﻿/* Move down content because we have a fixed navbar that is 50px tall */
+body {
+    padding-top: 100px;
+    padding-bottom: 20px;
+    background-image: url('Images/paper.png');
+}
+
+/* Wrapping element */
+/* Set some basic padding to keep content from hitting the edges */
+.body-content {
+    padding-left: 15px;
+    padding-right: 15px;
+}
+
+.header_text_lg {
+    font-weight: 700;
+    font-size: 75px;
+    text-shadow: 2px 2px 3px #ccc !important;
+    color: indigo;
+}
+
+h1, h2 {
+    text-shadow: 2px 2px 3px #ccc !important;
+    color: indigo;
+}
+
+.sc_empty {
+    font-size: 25px;
+    text-shadow: 2px 2px 3px #ccc !important;
+    color: red;
+}
+
+.btn_cart {
+    margin-bottom: 3px;
+}
+/* Navbar */
+.nav-link {
+    color: whitesmoke !important;
+}
+
+.nav-link:hover {
+    color: deepskyblue !important;
+}
+
+a.nav-link {
+    padding-left: 30px !important;
+    padding-right: 30px !important;
+    font-size: larger;
+    font-weight: 500;
+}
+
+.row_top {
+    padding-top: 50px;
+}
+
+.card_shadow {
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    background-color: lightblue;
+    margin-top: 50px;
+}
+
+table {
+    width: 100%;
+}
+
+.img_logo {
+    transition: transform .2s;
+}
+
+.img_logo:hover {
+    transform: scale(1.2);
+}
+
+.card-img-top {
+    transition: transform .2s !important;
+    border: solid 2px lightblue;
+}
+
+.card-img-top:hover {
+    transform: scale(1.1) !important;
+}
+
+/* Override the default bootstrap behavior where horizontal description lists 
+   will truncate terms that are too long to fit in the left column 
+*/
+.dl-horizontal dt {
+    white-space: normal;
+}
+
+/* Set widths on the form inputs since otherwise they're 100% wide */
+input[type="text"],
+input[type="password"],
+input[type="email"],
+input[type="tel"],
+input[type="select"] {
+    max-width: 280px;
+}
+
+/* Responsive: Portrait tablets and up */
+@media screen and (min-width: 768px) {
+    .jumbotron {
+        margin-top: 20px;
+    }
+    .body-content {
+        padding: 0;
+    }
+}

@@ -1,0 +1,37 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="SiteB5.master.cs" Inherits="taskB5.SiteB5" %>
+
+<!DOCTYPE html>
+
+<html>
+<head runat="server">
+    <title>ASP.NET Programming</title>
+    <link href="CSS/taskB5_styles.css" rel="stylesheet" />
+    <asp:ContentPlaceHolder ID="head" runat="server">
+        
+    </asp:ContentPlaceHolder>
+</head>
+
+<body>
+    <form id="form1" runat="server">
+        <h1>ASP.NET-programming</h1>
+        <!-- html code navigation bar -->
+        <div class="custom_navi">
+                    <ul>
+                        <li><asp:LinkButton ID="LinkButton1" runat="server" OnClick="LinkButton1_Click">taskA1</asp:LinkButton></li>
+                        <li><asp:LinkButton ID="LinkButton2" runat="server" OnClick="LinkButton2_Click">taskB1</asp:LinkButton></li>
+                        <li><asp:LinkButton ID="LinkButton3" runat="server" OnClick="LinkButton3_Click">taskB2</asp:LinkButton></li>
+                        <li><asp:LinkButton ID="LinkButton4" runat="server" OnClick="LinkButton4_Click">taskB3</asp:LinkButton></li>
+                        <li><asp:LinkButton ID="LinkButton5" runat="server" OnClick="LinkButton5_Click">taskB4</asp:LinkButton></li>
+                        <li><asp:LinkButton ID="LinkButton6" runat="server" OnClick="LinkButton6_Click">taskB5</asp:LinkButton></li>
+                        <li><asp:LinkButton ID="LinkButton7" runat="server" OnClick="LinkButton7_Click">taskB6</asp:LinkButton></li>
+                        <li><asp:LinkButton ID="LinkButton8" runat="server" OnClick="LinkButton8_Click">taskB7</asp:LinkButton></li>
+                    </ul>
+                </div>
+        <div>
+            <asp:ContentPlaceHolder ID="ContentPlaceHolder1" runat="server">
+            </asp:ContentPlaceHolder>
+        </div>
+    </form>
+</body>
+</html>
+

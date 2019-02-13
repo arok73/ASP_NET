@@ -1,0 +1,167 @@
+D:\ASP_NET\exe202_oksanen_ari\taskC1\bin\taskC1.dll.config
+D:\ASP_NET\exe202_oksanen_ari\taskC1\bin\taskC1.dll
+D:\ASP_NET\exe202_oksanen_ari\taskC1\bin\taskC1.pdb
+D:\ASP_NET\exe202_oksanen_ari\taskC1\bin\roslyn\csc.exe
+D:\ASP_NET\exe202_oksanen_ari\taskC1\bin\roslyn\csc.exe.config
+D:\ASP_NET\exe202_oksanen_ari\taskC1\bin\roslyn\csc.rsp
+D:\ASP_NET\exe202_oksanen_ari\taskC1\bin\roslyn\csi.exe
+D:\ASP_NET\exe202_oksanen_ari\taskC1\bin\roslyn\csi.exe.config
+D:\ASP_NET\exe202_oksanen_ari\taskC1\bin\roslyn\csi.rsp
+D:\ASP_NET\exe202_oksanen_ari\taskC1\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\ASP_NET\exe202_oksanen_ari\taskC1\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\ASP_NET\exe202_oksanen_ari\taskC1\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\ASP_NET\exe202_oksanen_ari\taskC1\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\ASP_NET\exe202_oksanen_ari\taskC1\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\ASP_NET\exe202_oksanen_ari\taskC1\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\ASP_NET\exe202_oksanen_ari\taskC1\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\ASP_NET\exe202_oksanen_ari\taskC1\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\ASP_NET\exe202_oksanen_ari\taskC1\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\ASP_NET\exe202_oksanen_ari\taskC1\bin\roslyn\Microsoft.Managed.Core.targets
+D:\ASP_NET\exe202_oksanen_ari\taskC1\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\ASP_NET\exe202_oksanen_ari\taskC1\bin\roslyn\System.AppContext.dll
+D:\ASP_NET\exe202_oksanen_ari\taskC1\bin\roslyn\System.Collections.Immutable.dll
+D:\ASP_NET\exe202_oksanen_ari\taskC1\bin\roslyn\System.Console.dll
+D:\ASP_NET\exe202_oksanen_ari\taskC1\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\ASP_NET\exe202_oksanen_ari\taskC1\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\ASP_NET\exe202_oksanen_ari\taskC1\bin\roslyn\System.IO.Compression.dll
+D:\ASP_NET\exe202_oksanen_ari\taskC1\bin\roslyn\System.IO.FileSystem.dll
+D:\ASP_NET\exe202_oksanen_ari\taskC1\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\ASP_NET\exe202_oksanen_ari\taskC1\bin\roslyn\System.IO.Pipes.AccessControl.dll
+D:\ASP_NET\exe202_oksanen_ari\taskC1\bin\roslyn\System.IO.Pipes.dll
+D:\ASP_NET\exe202_oksanen_ari\taskC1\bin\roslyn\System.Reflection.Metadata.dll
+D:\ASP_NET\exe202_oksanen_ari\taskC1\bin\roslyn\System.Security.AccessControl.dll
+D:\ASP_NET\exe202_oksanen_ari\taskC1\bin\roslyn\System.Security.Claims.dll
+D:\ASP_NET\exe202_oksanen_ari\taskC1\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\ASP_NET\exe202_oksanen_ari\taskC1\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\ASP_NET\exe202_oksanen_ari\taskC1\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\ASP_NET\exe202_oksanen_ari\taskC1\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\ASP_NET\exe202_oksanen_ari\taskC1\bin\roslyn\System.Security.Principal.Windows.dll
+D:\ASP_NET\exe202_oksanen_ari\taskC1\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\ASP_NET\exe202_oksanen_ari\taskC1\bin\roslyn\System.ValueTuple.dll
+D:\ASP_NET\exe202_oksanen_ari\taskC1\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\ASP_NET\exe202_oksanen_ari\taskC1\bin\roslyn\System.Xml.XmlDocument.dll
+D:\ASP_NET\exe202_oksanen_ari\taskC1\bin\roslyn\System.Xml.XPath.dll
+D:\ASP_NET\exe202_oksanen_ari\taskC1\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\ASP_NET\exe202_oksanen_ari\taskC1\bin\roslyn\vbc.exe
+D:\ASP_NET\exe202_oksanen_ari\taskC1\bin\roslyn\vbc.exe.config
+D:\ASP_NET\exe202_oksanen_ari\taskC1\bin\roslyn\vbc.rsp
+D:\ASP_NET\exe202_oksanen_ari\taskC1\bin\roslyn\VBCSCompiler.exe
+D:\ASP_NET\exe202_oksanen_ari\taskC1\bin\roslyn\VBCSCompiler.exe.config
+D:\ASP_NET\exe202_oksanen_ari\taskC1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\ASP_NET\exe202_oksanen_ari\taskC1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\ASP_NET\exe202_oksanen_ari\taskC1\obj\Debug\taskC1.csproj.CoreCompileInputs.cache
+D:\ASP_NET\exe202_oksanen_ari\taskC1\obj\Debug\taskC1.csproj.CopyComplete
+D:\ASP_NET\exe202_oksanen_ari\taskC1\obj\Debug\taskC1.dll
+D:\ASP_NET\exe202_oksanen_ari\taskC1\obj\Debug\taskC1.pdb
+D:\ASP_NET\exe202_oksanen_ari\taskC1\obj\Debug\taskC1.csprojAssemblyReference.cache
+D:\Git repos\exe202_aspnet\taskC1\bin\taskC1.dll.config
+D:\Git repos\exe202_aspnet\taskC1\bin\taskC1.dll
+D:\Git repos\exe202_aspnet\taskC1\bin\taskC1.pdb
+D:\Git repos\exe202_aspnet\taskC1\bin\roslyn\csc.exe
+D:\Git repos\exe202_aspnet\taskC1\bin\roslyn\csc.exe.config
+D:\Git repos\exe202_aspnet\taskC1\bin\roslyn\csc.rsp
+D:\Git repos\exe202_aspnet\taskC1\bin\roslyn\csi.exe
+D:\Git repos\exe202_aspnet\taskC1\bin\roslyn\csi.exe.config
+D:\Git repos\exe202_aspnet\taskC1\bin\roslyn\csi.rsp
+D:\Git repos\exe202_aspnet\taskC1\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Git repos\exe202_aspnet\taskC1\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Git repos\exe202_aspnet\taskC1\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\Git repos\exe202_aspnet\taskC1\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Git repos\exe202_aspnet\taskC1\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\Git repos\exe202_aspnet\taskC1\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Git repos\exe202_aspnet\taskC1\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Git repos\exe202_aspnet\taskC1\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\Git repos\exe202_aspnet\taskC1\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\Git repos\exe202_aspnet\taskC1\bin\roslyn\Microsoft.Managed.Core.targets
+D:\Git repos\exe202_aspnet\taskC1\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Git repos\exe202_aspnet\taskC1\bin\roslyn\System.AppContext.dll
+D:\Git repos\exe202_aspnet\taskC1\bin\roslyn\System.Collections.Immutable.dll
+D:\Git repos\exe202_aspnet\taskC1\bin\roslyn\System.Console.dll
+D:\Git repos\exe202_aspnet\taskC1\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\Git repos\exe202_aspnet\taskC1\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\Git repos\exe202_aspnet\taskC1\bin\roslyn\System.IO.Compression.dll
+D:\Git repos\exe202_aspnet\taskC1\bin\roslyn\System.IO.FileSystem.dll
+D:\Git repos\exe202_aspnet\taskC1\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\Git repos\exe202_aspnet\taskC1\bin\roslyn\System.IO.Pipes.AccessControl.dll
+D:\Git repos\exe202_aspnet\taskC1\bin\roslyn\System.IO.Pipes.dll
+D:\Git repos\exe202_aspnet\taskC1\bin\roslyn\System.Reflection.Metadata.dll
+D:\Git repos\exe202_aspnet\taskC1\bin\roslyn\System.Security.AccessControl.dll
+D:\Git repos\exe202_aspnet\taskC1\bin\roslyn\System.Security.Claims.dll
+D:\Git repos\exe202_aspnet\taskC1\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\Git repos\exe202_aspnet\taskC1\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\Git repos\exe202_aspnet\taskC1\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\Git repos\exe202_aspnet\taskC1\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\Git repos\exe202_aspnet\taskC1\bin\roslyn\System.Security.Principal.Windows.dll
+D:\Git repos\exe202_aspnet\taskC1\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\Git repos\exe202_aspnet\taskC1\bin\roslyn\System.ValueTuple.dll
+D:\Git repos\exe202_aspnet\taskC1\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\Git repos\exe202_aspnet\taskC1\bin\roslyn\System.Xml.XmlDocument.dll
+D:\Git repos\exe202_aspnet\taskC1\bin\roslyn\System.Xml.XPath.dll
+D:\Git repos\exe202_aspnet\taskC1\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\Git repos\exe202_aspnet\taskC1\bin\roslyn\vbc.exe
+D:\Git repos\exe202_aspnet\taskC1\bin\roslyn\vbc.exe.config
+D:\Git repos\exe202_aspnet\taskC1\bin\roslyn\vbc.rsp
+D:\Git repos\exe202_aspnet\taskC1\bin\roslyn\VBCSCompiler.exe
+D:\Git repos\exe202_aspnet\taskC1\bin\roslyn\VBCSCompiler.exe.config
+D:\Git repos\exe202_aspnet\taskC1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Git repos\exe202_aspnet\taskC1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Git repos\exe202_aspnet\taskC1\obj\Debug\taskC1.csprojAssemblyReference.cache
+D:\Git repos\exe202_aspnet\taskC1\obj\Debug\taskC1.csproj.CoreCompileInputs.cache
+D:\Git repos\exe202_aspnet\taskC1\obj\Debug\taskC1.csproj.CopyComplete
+D:\Git repos\exe202_aspnet\taskC1\obj\Debug\taskC1.dll
+D:\Git repos\exe202_aspnet\taskC1\obj\Debug\taskC1.pdb
+D:\ASP_NET\Palautetut\exe202_Oksanen_Ari\taskC1\bin\taskC1.dll.config
+D:\ASP_NET\Palautetut\exe202_Oksanen_Ari\taskC1\bin\taskC1.dll
+D:\ASP_NET\Palautetut\exe202_Oksanen_Ari\taskC1\bin\taskC1.pdb
+D:\ASP_NET\Palautetut\exe202_Oksanen_Ari\taskC1\bin\roslyn\csc.exe
+D:\ASP_NET\Palautetut\exe202_Oksanen_Ari\taskC1\bin\roslyn\csc.exe.config
+D:\ASP_NET\Palautetut\exe202_Oksanen_Ari\taskC1\bin\roslyn\csc.rsp
+D:\ASP_NET\Palautetut\exe202_Oksanen_Ari\taskC1\bin\roslyn\csi.exe
+D:\ASP_NET\Palautetut\exe202_Oksanen_Ari\taskC1\bin\roslyn\csi.exe.config
+D:\ASP_NET\Palautetut\exe202_Oksanen_Ari\taskC1\bin\roslyn\csi.rsp
+D:\ASP_NET\Palautetut\exe202_Oksanen_Ari\taskC1\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\ASP_NET\Palautetut\exe202_Oksanen_Ari\taskC1\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\ASP_NET\Palautetut\exe202_Oksanen_Ari\taskC1\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\ASP_NET\Palautetut\exe202_Oksanen_Ari\taskC1\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\ASP_NET\Palautetut\exe202_Oksanen_Ari\taskC1\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\ASP_NET\Palautetut\exe202_Oksanen_Ari\taskC1\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\ASP_NET\Palautetut\exe202_Oksanen_Ari\taskC1\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\ASP_NET\Palautetut\exe202_Oksanen_Ari\taskC1\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\ASP_NET\Palautetut\exe202_Oksanen_Ari\taskC1\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\ASP_NET\Palautetut\exe202_Oksanen_Ari\taskC1\bin\roslyn\Microsoft.Managed.Core.targets
+D:\ASP_NET\Palautetut\exe202_Oksanen_Ari\taskC1\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\ASP_NET\Palautetut\exe202_Oksanen_Ari\taskC1\bin\roslyn\System.AppContext.dll
+D:\ASP_NET\Palautetut\exe202_Oksanen_Ari\taskC1\bin\roslyn\System.Collections.Immutable.dll
+D:\ASP_NET\Palautetut\exe202_Oksanen_Ari\taskC1\bin\roslyn\System.Console.dll
+D:\ASP_NET\Palautetut\exe202_Oksanen_Ari\taskC1\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\ASP_NET\Palautetut\exe202_Oksanen_Ari\taskC1\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\ASP_NET\Palautetut\exe202_Oksanen_Ari\taskC1\bin\roslyn\System.IO.Compression.dll
+D:\ASP_NET\Palautetut\exe202_Oksanen_Ari\taskC1\bin\roslyn\System.IO.FileSystem.dll
+D:\ASP_NET\Palautetut\exe202_Oksanen_Ari\taskC1\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\ASP_NET\Palautetut\exe202_Oksanen_Ari\taskC1\bin\roslyn\System.IO.Pipes.AccessControl.dll
+D:\ASP_NET\Palautetut\exe202_Oksanen_Ari\taskC1\bin\roslyn\System.IO.Pipes.dll
+D:\ASP_NET\Palautetut\exe202_Oksanen_Ari\taskC1\bin\roslyn\System.Reflection.Metadata.dll
+D:\ASP_NET\Palautetut\exe202_Oksanen_Ari\taskC1\bin\roslyn\System.Security.AccessControl.dll
+D:\ASP_NET\Palautetut\exe202_Oksanen_Ari\taskC1\bin\roslyn\System.Security.Claims.dll
+D:\ASP_NET\Palautetut\exe202_Oksanen_Ari\taskC1\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\ASP_NET\Palautetut\exe202_Oksanen_Ari\taskC1\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\ASP_NET\Palautetut\exe202_Oksanen_Ari\taskC1\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\ASP_NET\Palautetut\exe202_Oksanen_Ari\taskC1\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\ASP_NET\Palautetut\exe202_Oksanen_Ari\taskC1\bin\roslyn\System.Security.Principal.Windows.dll
+D:\ASP_NET\Palautetut\exe202_Oksanen_Ari\taskC1\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\ASP_NET\Palautetut\exe202_Oksanen_Ari\taskC1\bin\roslyn\System.ValueTuple.dll
+D:\ASP_NET\Palautetut\exe202_Oksanen_Ari\taskC1\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\ASP_NET\Palautetut\exe202_Oksanen_Ari\taskC1\bin\roslyn\System.Xml.XmlDocument.dll
+D:\ASP_NET\Palautetut\exe202_Oksanen_Ari\taskC1\bin\roslyn\System.Xml.XPath.dll
+D:\ASP_NET\Palautetut\exe202_Oksanen_Ari\taskC1\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\ASP_NET\Palautetut\exe202_Oksanen_Ari\taskC1\bin\roslyn\vbc.exe
+D:\ASP_NET\Palautetut\exe202_Oksanen_Ari\taskC1\bin\roslyn\vbc.exe.config
+D:\ASP_NET\Palautetut\exe202_Oksanen_Ari\taskC1\bin\roslyn\vbc.rsp
+D:\ASP_NET\Palautetut\exe202_Oksanen_Ari\taskC1\bin\roslyn\VBCSCompiler.exe
+D:\ASP_NET\Palautetut\exe202_Oksanen_Ari\taskC1\bin\roslyn\VBCSCompiler.exe.config
+D:\ASP_NET\Palautetut\exe202_Oksanen_Ari\taskC1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\ASP_NET\Palautetut\exe202_Oksanen_Ari\taskC1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\ASP_NET\Palautetut\exe202_Oksanen_Ari\taskC1\obj\Debug\taskC1.csproj.CoreCompileInputs.cache
+D:\ASP_NET\Palautetut\exe202_Oksanen_Ari\taskC1\obj\Debug\taskC1.csproj.CopyComplete
+D:\ASP_NET\Palautetut\exe202_Oksanen_Ari\taskC1\obj\Debug\taskC1.dll
+D:\ASP_NET\Palautetut\exe202_Oksanen_Ari\taskC1\obj\Debug\taskC1.pdb

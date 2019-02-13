@@ -1,0 +1,3 @@
+<a class="nav_smaller" runat="server" href="~/ShoppingCart" onclick="storeSession_Click"><span class="fas fa-shopping-cart" style="width:30px; height:30px"></span>Shopping Cart</a>
+
+<li class="nav-item"><a class="nav_smaller" runat="server" href="~/ShoppingCart" onclick="storeSession_Click"><span class="fas fa-shopping-cart" style="width:30px; height:30px"></span>Shopping Cart</a></li>
